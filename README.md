@@ -1,4 +1,6 @@
 # processing_s7Bot_FK_088
+!!! see s7Bot_GUI_092 for a newr version !!!
+
 processing app to teach, record and play positions. safe/load to/from disk / change in v088: set a name for save or load file
 
 
@@ -21,3 +23,5 @@ processing app to teach, record and play positions. safe/load to/from disk / cha
 // 'O' open file 
 // In the textfield located right from filename you can type a name for the file. Folder 'data' on the sketch folder
 // This name (default: 7Bot data') is used while safe file to disk and load from disk
+
+!!! see s7Bot_GUI_092 for a newr version !!!
